@@ -1,0 +1,43 @@
+
+
+body{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 10vw;
+    text-align: center;
+    background-color: black;
+    color: red;
+
+    display: grid;
+    grid-template-rows: 20vh 20vh 10vh 50vh;
+    grid-template-columns: 15vw 70vw 15vw;
+
+    background-image: url(img/stars-1436950_1280.jpg)
+}
+
+section.data{
+    grid-row-start: 2;
+    grid-column-start: 2;
+
+    display:grid;
+    grid-template-columns: 20% 6% 20% 6% 20% 6% 20%;
+}
+
+section.labels{
+    font-size: 2vh;
+    grid-row-start: 3;
+    grid-column-start: 2;
+
+    display: grid;
+    grid-template-columns: 20% 6% 20% 6% 20% 6% 20%;
+}
+
+h1{
+    font-size: 5vh;
+}
+header{
+    grid-row-start: 1;
+    grid-column-start: 2;
+
+    color: yellow;
+}
+
