@@ -1,7 +1,7 @@
 //Set Star Wars release date. Dec 20, 2019
 
 
-var releaseDate = new Date('December 20, 2019 ').getTime();
+var releaseDate = new Date('January 16, 2025 ').getTime();
 
 
 
