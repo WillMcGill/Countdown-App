@@ -24,7 +24,7 @@ function updateTime(){
     let hoursRemaining = Math.floor(timeRemaining % 86400000 / 3600000);
     let minutesRemaining = Math.floor(timeRemaining % 3600000 / 60000);
     let secondsRemaining = Math.floor(timeRemaining% 60000 / 1000);
-    console.log(secondsRemaining);
+    console.log(hoursRemaining);
 
     //place results within html
 
