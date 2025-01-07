@@ -10,8 +10,9 @@ body{
     display: grid;
     grid-template-rows: 20vh 20vh 10vh 50vh;
     grid-template-columns: 15vw 70vw 15vw;
-
-    background-image: url(img/stars-1436950_1280.jpg)
+/*     https://en.wikipedia.org/wiki/Canc%C3%BAn#/media/File:Cancun_Strand_Luftbild_(22143397586).jpg */
+/*     background-image: url(img/stars-1436950_1280.jpg) */
+    background-image: url(https://en.wikipedia.org/wiki/Canc%C3%BAn#/media/File:Cancun_Strand_Luftbild_(22143397586).jpg)
 }
 
 section.data{
