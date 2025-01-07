@@ -5,10 +5,10 @@ body{
     font-size: 10vw;
     text-align: center;
     background-color: black;
-    color: red;
+    color: yellow;
 
     display: grid;
-    grid-template-rows: 20vh 20vh 10vh 50vh;
+/*     grid-template-rows: 20vh 20vh 10vh 50vh; */
     grid-template-columns: 15vw 70vw 15vw;
     background-image: url('img/1280px-Cancun_Strand_Luftbild_(22143397586).jpg');
     background-repeat: no-repeat;
